@@ -31,7 +31,7 @@
 			</div>
 			<div class="languages m-top-lg flex flex-col gap-lg align-end">
 				<h3>The Tech I Use</h3>
-				<div class="flex gap-md flex-wrap">
+				<div class="flex gap-md flex-wrap justify-end">
 					<Html />
 					<Css />
 					<Javascript />
