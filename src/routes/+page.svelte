@@ -204,5 +204,8 @@
 		.projects {
 			--columns: 1;
 		}
+		h1 {
+			font-size: 6rem;
+		}
 	}
 </style>
